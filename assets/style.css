@@ -22,6 +22,7 @@ body {
             }
 
             .cartao1 {
-                margin: 2cm 2cm;
+                margin: 1rem 1rem;
                 background-color: aqua;
+                height: 20rem;
             }
