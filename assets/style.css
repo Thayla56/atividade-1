@@ -22,7 +22,7 @@ body {
             }
 
             .cartao {
-                margin: 1rem 1rem;
+                margin: 10px;
                 background-color: aqua;
                 height: 20rem;
                 flex-grow: 1;
